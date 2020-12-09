@@ -1,18 +1,4 @@
- _________________ 
-< Wubalubadubdub >
- ----------------- 
-    \
-     \
-      \     
-                    ##        .            
-              ## ## ##       ==            
-           ## ## ## ##      ===            
-       /""""""""""""""""___/ ===        
-  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
-       \______ o          __/            
-        \    \        __/             
-          \____\______/   
-
+![Screenshot_2020-12-09_11-15-38](https://user-images.githubusercontent.com/51093556/101676352-0fea1000-3a29-11eb-8ab5-0bfbd9554692.png)
 ### 
 ### Network security and encryption
 ### Security risk analysis and development of tools for both offensive and defensive security, backdoors and intrusion detection systems.
