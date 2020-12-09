@@ -1,3 +1,18 @@
+ _________________ 
+< Wubalubadubdub >
+ ----------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
+
 ### 
 ### Network security and encryption
 ### Security risk analysis and development of tools for both offensive and defensive security, backdoors and intrusion detection systems.
