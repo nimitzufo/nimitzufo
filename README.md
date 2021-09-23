@@ -1,6 +1,6 @@
 ### 
 ### Network security and encryption
-### Security risk analysis and development of tools for both offensive and defensive security, backdoors and intrusion detection systems.
+### Security risk analysis and development of tools for offensive security, backdoors and intrusion detection systems.
 ### R&D of cybersecurity proof of concepts and TTPs.
 ### ![mostexperthacker](https://user-images.githubusercontent.com/51093556/101558750-994c0480-398d-11eb-85bf-957b3aabb757.gif)
 
