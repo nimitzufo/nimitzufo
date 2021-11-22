@@ -8,3 +8,7 @@
 <a href="https://github.com/edsondearaujo/github-readme-statst">
   <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=nimitzufo&show_icons=true&theme=highcontrast" />
 </a>
+
+<a href="https://github.com/edsondearaujo/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitzufo&hide=jupyter%20notebook,html&layout=compact&theme=highcontrast" />
+</a>
