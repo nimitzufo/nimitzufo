@@ -13,9 +13,10 @@
 If you wanna get in touch, hit me up:
 <br>
 <br>
+[![Twitter URL](https://img.shields.io/twitter/url?color=black&label=%20&logo=twitter&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/edwardnygmapple)
+[![Linkedln](https://img.shields.io/twitter/url?color=black&label=%20&logo=linkedin&url=https%3A%2F%2Flinkedin.com%2F)](https://www.linkedin.com/in/nimitzufo/)
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=light&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/edwardnygmapple)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimitzufo/)
+
 <!-- 
 <code><img height="35" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></code>
 <code><img height="35" src="https://cdn-icons.flaticon.com/png/512/4423/premium/4423638.png?token=exp=1650903466~hmac=c28ba16292445ad9d947e16a43eab4cd"></code>
