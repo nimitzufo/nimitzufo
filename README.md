@@ -10,10 +10,7 @@
 
 
 ###
-If you wanna get in touch, hit me up:
-<br>
-<br>
-[![Linkedln](https://img.shields.io/twitter/url?color=black&label=%20&logo=linkedin&url=https%3A%2F%2Flinkedin.com%2F)](https://www.linkedin.com/in/nimitzufo/)
+
 
 
 <!-- 
