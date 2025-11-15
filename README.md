@@ -1,10 +1,9 @@
 ### Nimitzufo
 
-- Network security and encryption<img align="right" width="350" src="https://user-images.githubusercontent.com/51093556/101558750-994c0480-398d-11eb-85bf-957b3aabb757.gif" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/51093556/101558750-994c0480-398d-11eb-85bf-957b3aabb757.gif" />
 - Security risk analysis and development of tools for offensive security, backdoors and bypassing intrusion detection systems
 - R&D of cybersecurity proof of concepts and TTPs
 - Social Media Intelligence Analysis & Monitoring
-- Tracking of cryptoassets and de-anonymizing of threat actors
 
 
 
